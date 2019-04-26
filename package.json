@@ -73,7 +73,7 @@
     "sinon": "^7.2.3"
   },
   "dependencies": {
-    "aws-sdk": "^2.184.0",
+    "aws-sdk": "^2.444.0",
     "axios": "^0.18.0",
     "docker-lambda": "^0.15.2",
     "lodash": "^4.17.11",
